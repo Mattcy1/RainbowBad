@@ -7,7 +7,7 @@
 
 <h1 align="center">Rainbow Bad</h1>
 
-This mod adds the rainbow bad
+This mod add the rainbow bad
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/RainbowBad/total?label=Total%20Dowloads"></h1>
 
